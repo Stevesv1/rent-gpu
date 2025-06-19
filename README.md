@@ -31,13 +31,13 @@ Before starting, you should follow each step correctly, if u did anything wrong 
 - **Can I use Windows PowerShell or a Linux VPS instead of Command Prompt?**
   - No, you should not do that. The above commands are specifically written for Windows Command Prompt. Using PowerShell or a Linux VPS would require different commands.
 
-- **How to know if Im within in GPU server or still on windows environment on Command prompt?**
-  - If you are in windows envirment u will see like this :
+- **How do I know if I'm on the GPU server or still in the Windows environment in Command Prompt?**
+  - If you're in the Windows environment, your prompt will look like this :
     
     ```
     C:\Users\YourName>
     ```
-  - But if you see someting like this, it means u are now withing GPU server :
+  - But if you're connected to the GPU server, you'll see something like:
     
     ```
     ubuntu@server-name:~$
