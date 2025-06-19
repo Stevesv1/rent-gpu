@@ -1,7 +1,5 @@
 <h2 align=center>How to Connect to GPU via SSH</h2>
 
-Before starting, you should follow each step correctly, if u did anything wrong and then DM me on X, I will not reply in such case
-
 - First open, command prompt (cmd)
   - Method 1 : To open command prompt, press `Windows` and `R` key together and then write `cmd` there and then press `Enter` button
   - Method 2 : Write `cmd` in the searchbar (located on the taskbar below) and then click on `open` button to open command prompt
