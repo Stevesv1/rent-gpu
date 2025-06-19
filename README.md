@@ -28,8 +28,8 @@ Before starting, you should follow each step correctly, if u did anything wrong 
 
 <h2 align=center>Some FAQs</h2>
 
-- **Can I use Windows poershwll or any linux VPS instead of command prompt?**
-  - No you should not do that, for that there is need different command, the above commands is only supported in command prompt
+- **Can I use Windows PowerShell or a Linux VPS instead of Command Prompt?**
+  - No, you should not do that. The above commands are specifically written for Windows Command Prompt. Using PowerShell or a Linux VPS would require different commands.
 
 - **How to know if Im within in GPU server or still on windows environment on Command prompt?**
   - If you are in windows envirment u will see like this :
